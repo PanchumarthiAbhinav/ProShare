@@ -1,0 +1,43 @@
+Index: app/src/main/res/values/strings.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><resources>\r\n    <string name=\"app_name\">ProShare</string>\r\n    <string name=\"hello_blank_fragment\">Hello blank fragment</string>\r\n    <string-array name=\"Categories\">\r\n        <item>Android Application</item>\r\n        <item>Machine Learning</item>\r\n        <item>Deep Learning</item>\r\n        <item>Artificial Intelligence</item>\r\n        <item>Web Application</item>\r\n        <item>Internet of Things</item>\r\n        <item>Blockchain</item>\r\n        <item>Operating Systems</item>\r\n        <item>Databases</item>\r\n\r\n    </string-array>\r\n</resources>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/res/values/strings.xml b/app/src/main/res/values/strings.xml
+--- a/app/src/main/res/values/strings.xml	(revision 11170925228935038fdc0ba5769b744d1caa9f44)
++++ b/app/src/main/res/values/strings.xml	(date 1656477781550)
+@@ -1,6 +1,5 @@
+ <resources>
+     <string name="app_name">ProShare</string>
+-    <string name="hello_blank_fragment">Hello blank fragment</string>
+     <string-array name="Categories">
+         <item>Android Application</item>
+         <item>Machine Learning</item>
+Index: README.md
+===================================================================
+diff --git a/README.md b/README.md
+deleted file mode 100644
+--- a/README.md	(revision 11170925228935038fdc0ba5769b744d1caa9f44)
++++ /dev/null	(revision 11170925228935038fdc0ba5769b744d1caa9f44)
+@@ -1,2 +0,0 @@
+-# ProShare
+-A project ideas sharing app built using java and xml languages and Firebase for data storage.
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+new file mode 100644
+--- /dev/null	(date 1656477781538)
++++ b/.idea/vcs.xml	(date 1656477781538)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
