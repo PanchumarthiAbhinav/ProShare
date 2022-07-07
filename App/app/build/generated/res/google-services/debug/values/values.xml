@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">61577217637-eabn9nvmsvbh40qcec6luq56u4k8kacg.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">61577217637</string>
+    <string name="google_api_key" translatable="false">AIzaSyDaQVmCmZoBzLPzXnyYQ1Mncgy_bNT7lYU</string>
+    <string name="google_app_id" translatable="false">1:61577217637:android:3f8bd120dc26d9ce23288c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDaQVmCmZoBzLPzXnyYQ1Mncgy_bNT7lYU</string>
+    <string name="google_storage_bucket" translatable="false">proshare-a726b.appspot.com</string>
+    <string name="project_id" translatable="false">proshare-a726b</string>
+</resources>
