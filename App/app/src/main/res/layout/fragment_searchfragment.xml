@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:resizeableActivity="true"
+    tools:context=".searchfragment">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:fontFamily="@font/abril_fatface"
+        android:text="Search Based on Categories"
+        android:layout_marginLeft="30sp"
+        android:layout_marginTop="20sp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="50sp"
+            android:id="@+id/AndroidProjects"
+            android:layout_marginTop="60sp"
+            android:layout_marginRight="30sp"
+            android:layout_marginLeft="30sp"
+            app:cardBackgroundColor="#C6FFFF"
+            app:cardCornerRadius="10sp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20sp"
+                    android:layout_gravity="center"
+                    android:src="@drawable/android"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Android App Projects"
+                    android:layout_marginLeft="50sp"
+                    android:layout_gravity="center"
+                    android:textColor="@color/black"/>
+
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="50sp"
+            android:id="@+id/WebProjects"
+            android:layout_marginTop="20sp"
+            android:layout_marginRight="30sp"
+            android:layout_marginLeft="30sp"
+            app:cardBackgroundColor="#C6FFFF"
+            app:cardCornerRadius="10sp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+                <ImageView
+                    android:layout_width="50sp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10sp"
+                    android:layout_gravity="center"
+                    android:src="@drawable/webdev"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Web App Projects"
+                    android:layout_marginLeft="40sp"
+                    android:layout_gravity="center"
+                    android:textColor="@color/black"/>
+
+
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="50sp"
+            android:id="@+id/MachineLearningProjects"
+            android:layout_marginTop="20sp"
+            android:layout_marginRight="30sp"
+            android:layout_marginLeft="30sp"
+            app:cardBackgroundColor="#C6FFFF"
+            app:cardCornerRadius="10sp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+                <ImageView
+                    android:layout_width="60sp"
+                    android:layout_height="50sp"
+                    android:layout_marginLeft="10sp"
+                    android:layout_gravity="center"
+                    android:src="@drawable/machinelearning"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Machine Learning Projects"
+                    android:layout_marginLeft="30sp"
+                    android:layout_gravity="center"
+                    android:textColor="@color/black"/>
+
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="50sp"
+            android:id="@+id/IOSProjects"
+            android:layout_marginTop="20sp"
+            android:layout_marginRight="30sp"
+            android:layout_marginLeft="30sp"
+            app:cardBackgroundColor="#C6FFFF"
+            app:cardCornerRadius="10sp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+                <ImageView
+                    android:layout_width="30sp"
+                    android:layout_height="30sp"
+                    android:layout_marginLeft="30sp"
+                    android:layout_gravity="center"
+                    android:src="@drawable/ios"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Ios App Projects"
+                    android:layout_marginLeft="40sp"
+                    android:layout_gravity="center"
+                    android:textColor="@color/black"/>
+
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="50sp"
+            android:id="@+id/IOTProjects"
+            android:layout_marginTop="20sp"
+            android:layout_marginRight="30sp"
+            android:layout_marginLeft="30sp"
+            app:cardBackgroundColor="#C6FFFF"
+            app:cardCornerRadius="10sp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+                <ImageView
+                    android:layout_width="30sp"
+                    android:layout_height="30sp"
+                    android:layout_marginLeft="30sp"
+                    android:layout_gravity="center"
+                    android:src="@drawable/iot"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Internet of Things Projects"
+                    android:layout_marginLeft="40sp"
+                    android:layout_gravity="center"
+                    android:textColor="@color/black"/>
+
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="50sp"
+            android:id="@+id/BlockchainProjects"
+            android:layout_marginTop="20sp"
+            android:layout_marginRight="30sp"
+            android:layout_marginLeft="30sp"
+            app:cardBackgroundColor="#C6FFFF"
+            app:cardCornerRadius="10sp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+                <ImageView
+                    android:layout_width="40sp"
+                    android:layout_height="40sp"
+                    android:layout_marginLeft="30sp"
+                    android:layout_gravity="center"
+                    android:src="@drawable/blockchain"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Blockchain Projects"
+                    android:layout_marginLeft="30sp"
+                    android:layout_gravity="center"
+                    android:textColor="@color/black"/>
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+    </LinearLayout>
+
+</FrameLayout>

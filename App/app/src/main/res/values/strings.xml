@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ProShare</string>
+    <string-array name="Categories">
+        <item>Android Application</item>
+        <item>Machine Learning</item>
+        <item>Deep Learning</item>
+        <item>Artificial Intelligence</item>
+        <item>Web Application</item>
+        <item>Internet of Things</item>
+        <item>Blockchain</item>
+        <item>Operating Systems</item>
+        <item>Databases</item>
+
+    </string-array>
+</resources>

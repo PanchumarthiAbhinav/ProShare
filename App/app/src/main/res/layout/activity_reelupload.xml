@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".reelupload">
+
+    <VideoView
+        android:layout_width="match_parent"
+        android:layout_height="300sp"
+        android:layout_marginTop="20sp"
+        android:layout_marginLeft="20sp"
+        android:layout_marginRight="20sp"
+        android:id="@+id/reel"
+        android:layout_gravity="center"/>
+    <EditText
+        android:layout_width="200sp"
+        android:layout_gravity="center"
+        android:id="@+id/reeltitle"
+        android:layout_marginTop="20sp"
+        android:layout_height="wrap_content"
+        android:hint="Reel Title"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20sp"
+        android:layout_gravity="center"
+        android:text="Browse"
+        android:id="@+id/reelbrowse"/>
+    <Button
+        android:layout_marginTop="20sp"
+        android:layout_gravity="center"
+        android:id="@+id/reelupload"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Upload"/>
+
+</LinearLayout>
