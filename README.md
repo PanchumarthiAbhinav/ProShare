@@ -7,6 +7,7 @@
 * The app displays the project ideas in categories of similar projects based on technologies
 * There is also an option to search accross the categories for a required app
 * Below is the Login Page and Registration Page which uses firebase authentication
+* <img src="https://github.com/PanchumarthiAbhinav/ProShare/blob/main/Images/loginpage.jpeg" alt="Login Page" width="200" height="200"/>
 ![Login Page](https://github.com/PanchumarthiAbhinav/ProShare/blob/main/Images/loginpage.jpeg)
 ![Registration Page](https://github.com/PanchumarthiAbhinav/ProShare/blob/main/Images/registerpage.jpeg)
 
