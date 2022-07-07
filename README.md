@@ -7,21 +7,21 @@
 * The app displays the project ideas in categories of similar projects based on technologies
 * There is also an option to search accross the categories for a required app
 * Below is the Login Page and Registration Page which uses firebase authentication
-* <img src="https://github.com/PanchumarthiAbhinav/ProShare/blob/main/Images/loginpage.jpeg" alt="Login Page" width="200" height="400"/>
-![Login Page](https://github.com/PanchumarthiAbhinav/ProShare/blob/main/Images/loginpage.jpeg)
-![Registration Page](https://github.com/PanchumarthiAbhinav/ProShare/blob/main/Images/registerpage.jpeg)
+<img src="https://github.com/PanchumarthiAbhinav/ProShare/blob/main/Images/loginpage.jpeg" alt="Login Page" width="200" height="400"/>
+
+<img src="https://github.com/PanchumarthiAbhinav/ProShare/blob/main/Images/registerpage.jpeg" alt="Registration Page" width="200" height="400"/>
 
 * The Home Page below displays the information from the firebase realtime storage
-![Home Page](https://github.com/PanchumarthiAbhinav/ProShare/blob/main/Images/homepage.jpeg)
+<img src="https://github.com/PanchumarthiAbhinav/ProShare/blob/main/Images/homepage.jpeg" alt="Home Page" width="200" height="400"/>
 
 * This Categories Page below categorizes all the project ideas based on the domain and displays them
-![Search Page](https://github.com/PanchumarthiAbhinav/ProShare/blob/main/Images/categoriespage.jpeg)
+<img src="https://github.com/PanchumarthiAbhinav/ProShare/blob/main/Images/categoriespage.jpeg" alt="Search Page" width="200" height="400"/>
 
 * Below is the settings page
-![Settings Page](https://github.com/PanchumarthiAbhinav/ProShare/blob/main/Images/settingspage.jpeg)
+<img src="https://github.com/PanchumarthiAbhinav/ProShare/blob/main/Images/settingspage.jpeg" alt="Settings Page" width="200" height="400"/>
 
 * Below is the Profile Page which gives user the options to add a project, edit a project and logout from the app
-![Profile Page](https://github.com/PanchumarthiAbhinav/ProShare/blob/main/Images/Profilepage.jpeg)
+<img src="https://github.com/PanchumarthiAbhinav/ProShare/blob/main/Images/Profilepage.jpeg" alt="Profile Page" width="200" height="400"/>
 
 * Upload Project Page is shown below where the user can upload his project idea to the app
-![Upload Project](https://github.com/PanchumarthiAbhinav/ProShare/blob/main/Images/Projectuploadpage.jpeg)
+<img src="https://github.com/PanchumarthiAbhinav/ProShare/blob/main/Images/Projectuploadpage.jpeg" alt="Upload Project" width="200" height="400"/>
