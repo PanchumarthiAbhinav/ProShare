@@ -1,9 +1,9 @@
 # ProShare
 ## A project ideas sharing app built using java and xml languages and Firebase for data storage.
 * ProShare uses xml for frontend and java for backend and firebase for storage
-* The app helps in sharing project ideas among users
+* This app helps in sharing project ideas among users
 * The User can also add a reel explaining his project idea in short
-* Below are the screenshots of the apps interface
+* Below are the screenshots of the app's interface
 * The app displays the project ideas in categories of similar projects based on technologies
 * There is also an option to search accross the categories for a required app
 * Below is the Login Page and Registration Page which uses firebase authentication
