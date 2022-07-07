@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.test:monitor:1.4.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4613226de7ac62eb7a53be993be6c861/transformed/monitor-1.4.0/res" />
+      <root url="file://$USER_HOME$/Android Studio Gradel/gradle-7.1-rc-2-docs/gradle-7.1-rc-2/caches/transforms-3/4613226de7ac62eb7a53be993be6c861/transformed/monitor-1.4.0/res" />
+      <root url="file://$USER_HOME$/Android Studio Gradel/gradle-7.1-rc-2-docs/gradle-7.1-rc-2/caches/transforms-3/5bd4fa39328b15ac47e27cc45969a7c5/transformed/monitor-1.4.0/res" />
+      <root url="file://$USER_HOME$/Android Studio Gradel/gradle-7.1-rc-2-docs/gradle-7.1-rc-2/caches/transforms-3/5c7da2b40d87d0186628e6d76f4ce07d/transformed/monitor-1.4.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5c7da2b40d87d0186628e6d76f4ce07d/transformed/monitor-1.4.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/51514d9d61ccf9de9558f3f7f33730e5/transformed/monitor-1.4.0/res" />
+      <root url="file://$USER_HOME$/Android Studio Gradel/gradle-7.1-rc-2-docs/gradle-7.1-rc-2/caches/transforms-3/51514d9d61ccf9de9558f3f7f33730e5/transformed/monitor-1.4.0/res" />
+      <root url="jar://$USER_HOME$/Android Studio Gradel/gradle-7.1-rc-2-docs/gradle-7.1-rc-2/caches/transforms-3/51514d9d61ccf9de9558f3f7f33730e5/transformed/monitor-1.4.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Android Studio Gradel/gradle-7.1-rc-2-docs/gradle-7.1-rc-2/caches/transforms-3/51514d9d61ccf9de9558f3f7f33730e5/transformed/monitor-1.4.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Android Studio Gradel/gradle-7.1-rc-2-docs/gradle-7.1-rc-2/caches/modules-2/files-2.1/androidx.test/monitor/1.4.0/2770e38fa6d39242c2fa2e9d2ca3275b1d9debd8/monitor-1.4.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Android Studio Gradel/gradle-7.1-rc-2-docs/gradle-7.1-rc-2/caches/modules-2/files-2.1/androidx.test/monitor/1.4.0/5d892d39aae695079e3ecc7a841336ff3aeaf40/monitor-1.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-auth:19.2.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Android Studio Gradel/gradle-7.1-rc-2-docs/gradle-7.1-rc-2/caches/transforms-3/8634db42cd13cfd9773eb271474f42d8/transformed/firebase-auth-19.2.0/res" />
+      <root url="file://$USER_HOME$/Android Studio Gradel/gradle-7.1-rc-2-docs/gradle-7.1-rc-2/caches/transforms-3/8d484f8f016532995c6ba6433dfbf404/transformed/firebase-auth-19.2.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8d484f8f016532995c6ba6433dfbf404/transformed/firebase-auth-19.2.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/20a7fdd7f6abbf2239fb897a4de12fb4/transformed/firebase-auth-19.2.0/res" />
+      <root url="file://$USER_HOME$/Android Studio Gradel/gradle-7.1-rc-2-docs/gradle-7.1-rc-2/caches/transforms-3/20a7fdd7f6abbf2239fb897a4de12fb4/transformed/firebase-auth-19.2.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/Android Studio Gradel/gradle-7.1-rc-2-docs/gradle-7.1-rc-2/caches/transforms-3/20a7fdd7f6abbf2239fb897a4de12fb4/transformed/firebase-auth-19.2.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Android Studio Gradel/gradle-7.1-rc-2-docs/gradle-7.1-rc-2/caches/transforms-3/20a7fdd7f6abbf2239fb897a4de12fb4/transformed/firebase-auth-19.2.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Android Studio Gradel/gradle-7.1-rc-2-docs/gradle-7.1-rc-2/caches/modules-2/files-2.1/com.google.firebase/firebase-auth/19.2.0/75ea548fb72a3e52544b2dc4b7dfcfa914c02d7a/firebase-auth-19.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

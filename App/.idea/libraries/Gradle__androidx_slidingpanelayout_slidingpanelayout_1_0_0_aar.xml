@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.slidingpanelayout:slidingpanelayout:1.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Android Studio Gradel/gradle-7.1-rc-2-docs/gradle-7.1-rc-2/caches/transforms-3/152b5713d8cce10f255ed2580c7d4a7f/transformed/slidingpanelayout-1.0.0/res" />
+      <root url="file://$USER_HOME$/Android Studio Gradel/gradle-7.1-rc-2-docs/gradle-7.1-rc-2/caches/transforms-3/a9a22d829332201571ba83f64ecbe4bb/transformed/slidingpanelayout-1.0.0/res" />
+      <root url="file://$USER_HOME$/Android Studio Gradel/gradle-7.1-rc-2-docs/gradle-7.1-rc-2/caches/transforms-3/1b379d98a99bc3f9cf5c45f0f8de1c32/transformed/slidingpanelayout-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1b379d98a99bc3f9cf5c45f0f8de1c32/transformed/slidingpanelayout-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6d53be73dc590d0d899df09332215db8/transformed/slidingpanelayout-1.0.0/res" />
+      <root url="jar://$USER_HOME$/Android Studio Gradel/gradle-7.1-rc-2-docs/gradle-7.1-rc-2/caches/transforms-3/6d53be73dc590d0d899df09332215db8/transformed/slidingpanelayout-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Android Studio Gradel/gradle-7.1-rc-2-docs/gradle-7.1-rc-2/caches/transforms-3/6d53be73dc590d0d899df09332215db8/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/Android Studio Gradel/gradle-7.1-rc-2-docs/gradle-7.1-rc-2/caches/transforms-3/6d53be73dc590d0d899df09332215db8/transformed/slidingpanelayout-1.0.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Android Studio Gradel/gradle-7.1-rc-2-docs/gradle-7.1-rc-2/caches/modules-2/files-2.1/androidx.slidingpanelayout/slidingpanelayout/1.0.0/f3f2e4fded24d5969a86e1974ad7e96975d970a0/slidingpanelayout-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

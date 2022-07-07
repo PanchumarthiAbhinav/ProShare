@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.lifecycle:lifecycle-livedata:2.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b97a8f40b63810244ab41e2fa0059751/transformed/lifecycle-livedata-2.0.0/res" />
+      <root url="file://$USER_HOME$/Android Studio Gradel/gradle-7.1-rc-2-docs/gradle-7.1-rc-2/caches/transforms-3/b97a8f40b63810244ab41e2fa0059751/transformed/lifecycle-livedata-2.0.0/res" />
+      <root url="file://$USER_HOME$/Android Studio Gradel/gradle-7.1-rc-2-docs/gradle-7.1-rc-2/caches/transforms-3/806fec4c4edd94d5abbcd6c31aeed3ce/transformed/lifecycle-livedata-2.0.0/res" />
+      <root url="file://$USER_HOME$/Android Studio Gradel/gradle-7.1-rc-2-docs/gradle-7.1-rc-2/caches/transforms-3/3985267024113ee06a79155f8cb35fa2/transformed/lifecycle-livedata-2.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3985267024113ee06a79155f8cb35fa2/transformed/lifecycle-livedata-2.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b366da43a04ea71dba803b58418158bd/transformed/lifecycle-livedata-2.0.0/res" />
+      <root url="file://$USER_HOME$/Android Studio Gradel/gradle-7.1-rc-2-docs/gradle-7.1-rc-2/caches/transforms-3/b366da43a04ea71dba803b58418158bd/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/Android Studio Gradel/gradle-7.1-rc-2-docs/gradle-7.1-rc-2/caches/transforms-3/b366da43a04ea71dba803b58418158bd/transformed/lifecycle-livedata-2.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Android Studio Gradel/gradle-7.1-rc-2-docs/gradle-7.1-rc-2/caches/transforms-3/b366da43a04ea71dba803b58418158bd/transformed/lifecycle-livedata-2.0.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Android Studio Gradel/gradle-7.1-rc-2-docs/gradle-7.1-rc-2/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-livedata/2.0.0/740ce61935bd789380c01178bd8ce402402ebd2f/lifecycle-livedata-2.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
